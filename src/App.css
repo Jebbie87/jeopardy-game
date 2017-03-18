@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+  justify-content: center;
+}
+
+.App-header > h1 {
+  font-size: 60px;
+}
+
+.box {
+  background: #1abc9c;
+}
